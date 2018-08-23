@@ -173,7 +173,7 @@ public class DBHelper {
 				data.add(m);
 			}
 		} catch(SQLException e) {
-			System.out.println("查询数据库表单出错");
+			System.out.println("查询数据库表单出错!!!");
 			e.printStackTrace();
 		} finally {
 			closeAll(conn, pstmt, rs);
