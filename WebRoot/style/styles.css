@@ -1,0 +1,58 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	overflow:hidden;
+}
+
+.STYLE3 {
+	color: #528311;
+	font-size: 12px;
+}
+
+.STYLE4 {
+	color: #42870a;
+	font-size: 12px;
+}
+
+.STYLE5 {
+	height: 18px; 
+	width: 130px; 
+	border: solid 1px #cadcb2; 
+	font-size: 12px; 
+	color: #81b432;
+}
+
+.btn {
+	BORDER-RIGHT: #7b9ebd 1px solid;
+	PADDING-RIGHT: 2px;
+	BORDER-TOP: #7b9ebd 1px solid;
+	PADDING-LEFT: 2px;
+	FONT-SIZE: 12px;
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#cecfde);
+	BORDER-LEFT: #7b9ebd 1px solid;
+	CURSOR: hand;
+	COLOR: black;
+	PADDING-TOP: 2px;
+	BORDER-BOTTOM: #7b9ebd 1px solid;
+}
+
+#link {
+	color: #528311;
+	font-size: 16px;
+}
+
+#divlogo {
+	color: #F00;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.label {
+	width: 20%;
+}
+
+.controler {
+	width: 80%;
+}
